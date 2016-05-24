@@ -1,0 +1,64 @@
+//animations are bellow
+@-webkit-keyframes{}
+
+.skateBoards > img:hover {
+  transform: scale(1.08);
+}
+
+.tommyGuerrero:hover
+{
+        box-shadow:
+                1px 1px #fff,
+                3px 2px #fff,
+                3px 3px #fff;
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-1px);
+}
+.lance:hover{
+  box-shadow:
+          1px 1px #fff,
+          3px 2px #fff,
+          3px 3px #fff;
+  -webkit-transform: translateX(-3px);
+  transform: translateX(-1px);
+}
+.rodney:hover{
+  box-shadow:
+          1px 1px #fff,
+          3px 2px #fff,
+          3px 3px #fff;
+  -webkit-transform: translateX(-3px);
+  transform: translateX(-1px);
+}
+.steveCaballero:hover {
+  box-shadow:
+          1px 1px #fff,
+          3px 2px #fff,
+          3px 3px #fff;
+  -webkit-transform: translateX(-3px);
+  transform: translateX(-1px);
+}
+.article1:hover
+{
+        box-shadow: inset 0 0 0 5px #FF0000;
+}
+.article2:hover
+{
+        box-shadow: inset 0 0 0 5px #FF0000;
+}
+.article3:hover
+{
+        box-shadow: inset 0 0 0 5px #FF0000;
+}
+.footerpics
+{
+        opacity:0.3;
+}
+.footerpics:hover
+{
+        opacity:1;
+}
+
+
+
+//animations pulled from http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/

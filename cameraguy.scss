@@ -1,0 +1,27 @@
+.cameraguy {
+  background-image: url("top-image.png");
+  background-size: cover;
+  width: 78%;
+  border: 3px solid white;
+  margin: 0px auto;
+  height: 11%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  overflow: hidden;
+  margin-top: 7px;
+}
+.grid{
+  opacity: 0.4;
+}
+.logo{
+  position: relative;
+right: -510px;
+height: 79%;
+}
+@media (max-width: 1195px) {
+  .cameraguy {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto; } }
